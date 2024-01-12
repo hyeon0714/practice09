@@ -6,4 +6,6 @@ public abstract class Shape {
 
     public abstract double getPerimeter(); // 둘레 길이
     
+    
+    
 }
